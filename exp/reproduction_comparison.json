@@ -1,0 +1,70 @@
+{
+  "comparisons": [
+    {
+      "run": "exp\\runs\\reproduction\\1462\\0\\CART",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\0\\Oblique-2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\0\\P2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\0\\P2-H",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\1\\CART",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\1\\Oblique-2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\1\\P2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\1462\\1\\P2-H",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\0\\CART",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\0\\Oblique-2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\0\\P2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\0\\P2-H",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\1\\CART",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\1\\Oblique-2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\1\\P2",
+      "identical": true
+    },
+    {
+      "run": "exp\\runs\\reproduction\\61\\1\\P2-H",
+      "identical": true
+    }
+  ],
+  "n": 16,
+  "exact_predictions_and_probabilities": true
+}

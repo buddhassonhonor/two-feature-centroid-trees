@@ -1,0 +1,29 @@
+{
+  "id": 1489,
+  "name": "phoneme",
+  "n": 5000,
+  "original_n": 5404,
+  "p": 5,
+  "numerical": [
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    3533,
+    1467
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1489",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1592281\\phoneme.arff.gz",
+  "source_sha256": "7ca1f9250cb7bac829d0a4809bef7dc87d0f6d24a4be41f99d4aec2a198f05b8",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

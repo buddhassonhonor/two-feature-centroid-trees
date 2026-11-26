@@ -1,0 +1,29 @@
+{
+  "id": 40983,
+  "name": "wilt",
+  "n": 4839,
+  "original_n": 4839,
+  "p": 5,
+  "numerical": [
+    "GLCM_Pan",
+    "Mean_G",
+    "Mean_R",
+    "Mean_NIR",
+    "SD_Plan"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    4578,
+    261
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/40983",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\18151926\\wilt.arff.gz",
+  "source_sha256": "e7e135c3229fedf441615e84a2909d59fd034913fd77fc070007929ce9d90e1f",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

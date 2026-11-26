@@ -1,0 +1,52 @@
+{
+  "id": 1497,
+  "name": "wall-robot-navigation",
+  "n": 5000,
+  "original_n": 5456,
+  "p": 24,
+  "numerical": [
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10",
+    "V11",
+    "V12",
+    "V13",
+    "V14",
+    "V15",
+    "V16",
+    "V17",
+    "V18",
+    "V19",
+    "V20",
+    "V21",
+    "V22",
+    "V23",
+    "V24"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2",
+    "3",
+    "4"
+  ],
+  "class_counts": [
+    2021,
+    1922,
+    300,
+    757
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1497",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1592289\\wall-robot-navigation.arff.gz",
+  "source_sha256": "77f6b74cadc5fa0dd56894abc64f7fbd23344b1329d1a5b63a56e7bfaf56985d",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": 53,
+  "name": "heart-statlog",
+  "n": 270,
+  "original_n": 270,
+  "p": 13,
+  "numerical": [
+    "age",
+    "sex",
+    "chest",
+    "resting_blood_pressure",
+    "serum_cholestoral",
+    "fasting_blood_sugar",
+    "resting_electrocardiographic_results",
+    "maximum_heart_rate_achieved",
+    "exercise_induced_angina",
+    "oldpeak",
+    "slope",
+    "number_of_major_vessels",
+    "thal"
+  ],
+  "categorical": [],
+  "labels": [
+    "absent",
+    "present"
+  ],
+  "class_counts": [
+    150,
+    120
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/53",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\53\\heart-statlog.arff.gz",
+  "source_sha256": "97d974b9f61e57bd7fbea3114e614b566ef0dbf07b315b792980896b79ee04f5",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

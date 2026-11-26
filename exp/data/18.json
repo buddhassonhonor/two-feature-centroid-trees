@@ -1,0 +1,46 @@
+{
+  "id": 18,
+  "name": "mfeat-morphological",
+  "n": 2000,
+  "original_n": 2000,
+  "p": 6,
+  "numerical": [
+    "att1",
+    "att2",
+    "att3",
+    "att4",
+    "att5",
+    "att6"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "10",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9"
+  ],
+  "class_counts": [
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200,
+    200
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/18",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\18\\mfeat-morphological.arff.gz",
+  "source_sha256": "38f4469d0ab6174787ea37337c17345309fc08cd0c54a915003f1ed66efde30a",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

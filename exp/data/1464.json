@@ -1,0 +1,28 @@
+{
+  "id": 1464,
+  "name": "blood-transfusion-service-center",
+  "n": 748,
+  "original_n": 748,
+  "p": 4,
+  "numerical": [
+    "V1",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    570,
+    178
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1464",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1586225\\blood-transfusion-service-center.arff.gz",
+  "source_sha256": "19f20853f5efa8258371a9c96baaba9300941c6685e2dfec9a78617bccde5970",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

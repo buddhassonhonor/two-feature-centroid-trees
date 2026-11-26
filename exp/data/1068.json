@@ -1,0 +1,45 @@
+{
+  "id": 1068,
+  "name": "pc1",
+  "n": 1109,
+  "original_n": 1109,
+  "p": 21,
+  "numerical": [
+    "loc",
+    "v(g)",
+    "ev(g)",
+    "iv(G)",
+    "N",
+    "V",
+    "L",
+    "D",
+    "I",
+    "E",
+    "B",
+    "T",
+    "lOCode",
+    "lOComment",
+    "locCodeAndComment",
+    "lOBlank",
+    "uniq_Op",
+    "uniq_Opnd",
+    "total_Op",
+    "total_Opnd",
+    "branchCount"
+  ],
+  "categorical": [],
+  "labels": [
+    "false",
+    "true"
+  ],
+  "class_counts": [
+    1032,
+    77
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1068",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\53951\\pc1.arff.gz",
+  "source_sha256": "a4600fcf56b3213b3bda63a37a625a1555d042735112cad1318ce66ac6dc326f",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

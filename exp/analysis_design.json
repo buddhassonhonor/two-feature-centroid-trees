@@ -1,0 +1,8 @@
+{
+  "bootstrap_repeats": 10000,
+  "bootstrap_seed": 7182,
+  "statistical_unit": "dataset mean over 5 grouped splits",
+  "holm_family": "19 comparisons separately for each target",
+  "dependence_caveat": "Some benchmark datasets share domains; dataset bootstrap is descriptive, not a population guarantee.",
+  "perturbation": "Numeric standardized columns only; categorical encodings remain fixed."
+}

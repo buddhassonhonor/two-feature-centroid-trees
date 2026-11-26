@@ -1,0 +1,33 @@
+{
+  "id": 13,
+  "name": "breast-cancer",
+  "n": 286,
+  "original_n": 286,
+  "p": 9,
+  "numerical": [],
+  "categorical": [
+    "age",
+    "menopause",
+    "tumor-size",
+    "inv-nodes",
+    "node-caps",
+    "deg-malig",
+    "breast",
+    "breast-quad",
+    "irradiat"
+  ],
+  "labels": [
+    "no-recurrence-events",
+    "recurrence-events"
+  ],
+  "class_counts": [
+    201,
+    85
+  ],
+  "missing": 9,
+  "source": "https://www.openml.org/d/13",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\13\\breast-cancer.arff.gz",
+  "source_sha256": "beed485944d0b1b1d93bd9f2ebdb5ef44663823f953927bc67825813f9d613c0",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

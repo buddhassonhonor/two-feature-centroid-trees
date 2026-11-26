@@ -1,0 +1,39 @@
+{
+  "id": 187,
+  "name": "wine",
+  "n": 178,
+  "original_n": 178,
+  "p": 13,
+  "numerical": [
+    "Alcohol",
+    "Malic_acid",
+    "Ash",
+    "Alcalinity_of_ash",
+    "Magnesium",
+    "Total_phenols",
+    "Flavanoids",
+    "Nonflavanoid_phenols",
+    "Proanthocyanins",
+    "Color_intensity",
+    "Hue",
+    "OD280%2FOD315_of_diluted_wines",
+    "Proline"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2",
+    "3"
+  ],
+  "class_counts": [
+    59,
+    71,
+    48
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/187",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\3624\\wine.arff.gz",
+  "source_sha256": "877217c5439fda99530769aa4aeda42b065938f2abe479afe8235592c2bf69a4",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

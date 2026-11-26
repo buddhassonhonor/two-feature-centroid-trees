@@ -1,0 +1,30 @@
+{
+  "id": 1524,
+  "name": "vertebra-column",
+  "n": 310,
+  "original_n": 310,
+  "p": 6,
+  "numerical": [
+    "V1",
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V6"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    210,
+    100
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1524",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1593720\\vertebra-column.arff.gz",
+  "source_sha256": "a423be08fbc80efec2dbcdd951832686486c1d7992a1ac6302f1887feb3f508c",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

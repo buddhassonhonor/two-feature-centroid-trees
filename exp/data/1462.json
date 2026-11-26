@@ -1,0 +1,28 @@
+{
+  "id": 1462,
+  "name": "banknote-authentication",
+  "n": 1372,
+  "original_n": 1372,
+  "p": 4,
+  "numerical": [
+    "V1",
+    "V2",
+    "V3",
+    "V4"
+  ],
+  "categorical": [],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    762,
+    610
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1462",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1586223\\banknote-authentication.arff.gz",
+  "source_sha256": "70d5fbe29c66e32833808ae0e92c3e0ab87982ab793dd1a26d5b9c5d2a7be74c",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

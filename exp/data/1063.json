@@ -1,0 +1,45 @@
+{
+  "id": 1063,
+  "name": "kc2",
+  "n": 522,
+  "original_n": 522,
+  "p": 21,
+  "numerical": [
+    "loc",
+    "v(g)",
+    "ev(g)",
+    "iv(g)",
+    "n",
+    "v",
+    "l",
+    "d",
+    "i",
+    "e",
+    "b",
+    "t",
+    "lOCode",
+    "lOComment",
+    "lOBlank",
+    "lOCodeAndComment",
+    "uniq_Op",
+    "uniq_Opnd",
+    "total_Op",
+    "total_Opnd",
+    "branchCount"
+  ],
+  "categorical": [],
+  "labels": [
+    "no",
+    "yes"
+  ],
+  "class_counts": [
+    415,
+    107
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1063",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\53946\\kc2.arff.gz",
+  "source_sha256": "4f353a3c4dce6d3945681e7566e92df11ad0f2a0157d62544c97cde669f2b878",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

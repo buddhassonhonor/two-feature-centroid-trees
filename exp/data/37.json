@@ -1,0 +1,32 @@
+{
+  "id": 37,
+  "name": "diabetes",
+  "n": 768,
+  "original_n": 768,
+  "p": 8,
+  "numerical": [
+    "preg",
+    "plas",
+    "pres",
+    "skin",
+    "insu",
+    "mass",
+    "pedi",
+    "age"
+  ],
+  "categorical": [],
+  "labels": [
+    "tested_negative",
+    "tested_positive"
+  ],
+  "class_counts": [
+    500,
+    268
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/37",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\37\\diabetes.arff.gz",
+  "source_sha256": "fb636382eebd32e0bdff703297be03328a3bd59c4e032b93dd8bfc5a0c92961b",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

@@ -1,0 +1,45 @@
+{
+  "id": 31,
+  "name": "credit-g",
+  "n": 1000,
+  "original_n": 1000,
+  "p": 20,
+  "numerical": [
+    "duration",
+    "credit_amount",
+    "installment_commitment",
+    "residence_since",
+    "age",
+    "existing_credits",
+    "num_dependents"
+  ],
+  "categorical": [
+    "checking_status",
+    "credit_history",
+    "purpose",
+    "savings_status",
+    "employment",
+    "personal_status",
+    "other_parties",
+    "property_magnitude",
+    "other_payment_plans",
+    "housing",
+    "job",
+    "own_telephone",
+    "foreign_worker"
+  ],
+  "labels": [
+    "bad",
+    "good"
+  ],
+  "class_counts": [
+    300,
+    700
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/31",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\31\\credit-g.arff.gz",
+  "source_sha256": "a42c7d580d3415586b230a4315c118c93d787aaf2a145d0fd81e7e3efeb85be1",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

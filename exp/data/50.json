@@ -1,0 +1,33 @@
+{
+  "id": 50,
+  "name": "tic-tac-toe",
+  "n": 958,
+  "original_n": 958,
+  "p": 9,
+  "numerical": [],
+  "categorical": [
+    "top-left-square",
+    "top-middle-square",
+    "top-right-square",
+    "middle-left-square",
+    "middle-middle-square",
+    "middle-right-square",
+    "bottom-left-square",
+    "bottom-middle-square",
+    "bottom-right-square"
+  ],
+  "labels": [
+    "negative",
+    "positive"
+  ],
+  "class_counts": [
+    332,
+    626
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/50",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\50\\tic-tac-toe.arff.gz",
+  "source_sha256": "bb3f0837253a581671017d05b3924398711b9d12472cbd7e7a3fbaf57b347496",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

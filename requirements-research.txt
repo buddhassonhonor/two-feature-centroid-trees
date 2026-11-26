@@ -1,0 +1,14 @@
+numpy==2.2.6
+pandas==2.3.0
+scipy==1.13.1
+matplotlib==3.10.3
+scikit-learn==1.8.0
+joblib==1.5.1
+psutil==7.0.0
+threadpoolctl==3.6.0
+obliquetree==1.1.1
+xgboost==3.2.0
+lightgbm==4.6.0
+liac-arff==2.5.0
+requests==2.32.4
+beautifulsoup4==4.13.4

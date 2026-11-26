@@ -1,0 +1,45 @@
+{
+  "id": 1067,
+  "name": "kc1",
+  "n": 2109,
+  "original_n": 2109,
+  "p": 21,
+  "numerical": [
+    "loc",
+    "v(g)",
+    "ev(g)",
+    "iv(g)",
+    "n",
+    "v",
+    "l",
+    "d",
+    "i",
+    "e",
+    "b",
+    "t",
+    "lOCode",
+    "lOComment",
+    "lOBlank",
+    "locCodeAndComment",
+    "uniq_Op",
+    "uniq_Opnd",
+    "total_Op",
+    "total_Opnd",
+    "branchCount"
+  ],
+  "categorical": [],
+  "labels": [
+    "false",
+    "true"
+  ],
+  "class_counts": [
+    1783,
+    326
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1067",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\53950\\kc1.arff.gz",
+  "source_sha256": "d6c7aa7bdb6dbed5f90f1415159fd6a08f4ade6c88a38f6055137b1ea6480c62",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

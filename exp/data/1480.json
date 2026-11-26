@@ -1,0 +1,35 @@
+{
+  "id": 1480,
+  "name": "ilpd",
+  "n": 583,
+  "original_n": 583,
+  "p": 10,
+  "numerical": [
+    "V1",
+    "V3",
+    "V4",
+    "V5",
+    "V6",
+    "V7",
+    "V8",
+    "V9",
+    "V10"
+  ],
+  "categorical": [
+    "V2"
+  ],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    416,
+    167
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1480",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1590565\\ilpd.arff.gz",
+  "source_sha256": "dbd4aa2e9e4361e474094d6a0b5f1457d16d8b8621fe429dc85cc302cfc53e6d",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

@@ -1,0 +1,30 @@
+{
+  "id": 11,
+  "name": "balance-scale",
+  "n": 625,
+  "original_n": 625,
+  "p": 4,
+  "numerical": [
+    "left-weight",
+    "left-distance",
+    "right-weight",
+    "right-distance"
+  ],
+  "categorical": [],
+  "labels": [
+    "B",
+    "L",
+    "R"
+  ],
+  "class_counts": [
+    49,
+    288,
+    288
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/11",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\11\\balance-scale.arff.gz",
+  "source_sha256": "4741bdeb7ec154bf805ab2a318eda6b3b9c1ecbf6b6f5938308d971308651718",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

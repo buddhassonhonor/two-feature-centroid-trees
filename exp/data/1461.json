@@ -1,0 +1,41 @@
+{
+  "id": 1461,
+  "name": "bank-marketing",
+  "n": 5000,
+  "original_n": 45211,
+  "p": 16,
+  "numerical": [
+    "V1",
+    "V6",
+    "V10",
+    "V12",
+    "V13",
+    "V14",
+    "V15"
+  ],
+  "categorical": [
+    "V2",
+    "V3",
+    "V4",
+    "V5",
+    "V7",
+    "V8",
+    "V9",
+    "V11",
+    "V16"
+  ],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    4415,
+    585
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1461",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\1586218\\bank-marketing.arff.gz",
+  "source_sha256": "9337b4ba9cfdb99707a95f2af8508c102add2a12bde0b70f76187252d6091d2d",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

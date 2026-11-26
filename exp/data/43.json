@@ -1,0 +1,28 @@
+{
+  "id": 43,
+  "name": "haberman",
+  "n": 306,
+  "original_n": 306,
+  "p": 3,
+  "numerical": [
+    "Age_of_patient_at_time_of_operation",
+    "Number_of_positive_axillary_nodes_detected"
+  ],
+  "categorical": [
+    "Patients_year_of_operation"
+  ],
+  "labels": [
+    "1",
+    "2"
+  ],
+  "class_counts": [
+    225,
+    81
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/43",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\43\\haberman.arff.gz",
+  "source_sha256": "3a20ec150c70b47dd6e387e29ae255489123e53bfe7e15da264040bde3497b81",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

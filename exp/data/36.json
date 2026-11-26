@@ -1,0 +1,53 @@
+{
+  "id": 36,
+  "name": "segment",
+  "n": 2310,
+  "original_n": 2310,
+  "p": 19,
+  "numerical": [
+    "region-centroid-col",
+    "region-centroid-row",
+    "region-pixel-count",
+    "short-line-density-5",
+    "short-line-density-2",
+    "vedge-mean",
+    "vegde-sd",
+    "hedge-mean",
+    "hedge-sd",
+    "intensity-mean",
+    "rawred-mean",
+    "rawblue-mean",
+    "rawgreen-mean",
+    "exred-mean",
+    "exblue-mean",
+    "exgreen-mean",
+    "value-mean",
+    "saturation-mean",
+    "hue-mean"
+  ],
+  "categorical": [],
+  "labels": [
+    "brickface",
+    "cement",
+    "foliage",
+    "grass",
+    "path",
+    "sky",
+    "window"
+  ],
+  "class_counts": [
+    330,
+    330,
+    330,
+    330,
+    330,
+    330,
+    330
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/36",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\36\\segment.arff.gz",
+  "source_sha256": "aaeceb0f630dd134963b45c6196258cc1c11a5cc28380bbc03494b58a586e73e",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

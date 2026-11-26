@@ -1,0 +1,30 @@
+{
+  "id": 61,
+  "name": "iris",
+  "n": 150,
+  "original_n": 150,
+  "p": 4,
+  "numerical": [
+    "sepallength",
+    "sepalwidth",
+    "petallength",
+    "petalwidth"
+  ],
+  "categorical": [],
+  "labels": [
+    "Iris-setosa",
+    "Iris-versicolor",
+    "Iris-virginica"
+  ],
+  "class_counts": [
+    50,
+    50,
+    50
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/61",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\61\\iris.arff.gz",
+  "source_sha256": "86bff7df8ef832d21cc40e9c17cd7fe22ff6dbd77b1a399e22efdddf2f5af2f8",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

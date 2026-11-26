@@ -1,0 +1,33 @@
+{
+  "id": 15,
+  "name": "breast-w",
+  "n": 699,
+  "original_n": 699,
+  "p": 9,
+  "numerical": [
+    "Clump_Thickness",
+    "Cell_Size_Uniformity",
+    "Cell_Shape_Uniformity",
+    "Marginal_Adhesion",
+    "Single_Epi_Cell_Size",
+    "Bare_Nuclei",
+    "Bland_Chromatin",
+    "Normal_Nucleoli",
+    "Mitoses"
+  ],
+  "categorical": [],
+  "labels": [
+    "benign",
+    "malignant"
+  ],
+  "class_counts": [
+    458,
+    241
+  ],
+  "missing": 16,
+  "source": "https://www.openml.org/d/15",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\52350\\breast-w.arff.gz",
+  "source_sha256": "36a2d26d306496b7c49702ff8b0706f0c9b25a60c34834e8dbed5570a247a7eb",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

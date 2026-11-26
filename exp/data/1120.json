@@ -1,0 +1,34 @@
+{
+  "id": 1120,
+  "name": "MagicTelescope",
+  "n": 5000,
+  "original_n": 19020,
+  "p": 10,
+  "numerical": [
+    "fLength:",
+    "fWidth:",
+    "fSize:",
+    "fConc:",
+    "fConc1:",
+    "fAsym:",
+    "fM3Long:",
+    "fM3Trans:",
+    "fAlpha:",
+    "fDist:"
+  ],
+  "categorical": [],
+  "labels": [
+    "g",
+    "h"
+  ],
+  "class_counts": [
+    3242,
+    1758
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/1120",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\54003\\MagicTelescope.arff.gz",
+  "source_sha256": "3e659a7d828a194177717e6e5f6663ad5376bc1819024e21f0cbeb80fcb4ab4c",
+  "ignore_attributes": [],
+  "row_id_attribute": "ID"
+}

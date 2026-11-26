@@ -1,0 +1,36 @@
+{
+  "id": 23,
+  "name": "cmc",
+  "n": 1473,
+  "original_n": 1473,
+  "p": 9,
+  "numerical": [
+    "Wifes_age",
+    "Number_of_children_ever_born"
+  ],
+  "categorical": [
+    "Wifes_education",
+    "Husbands_education",
+    "Wifes_religion",
+    "Wifes_now_working%3F",
+    "Husbands_occupation",
+    "Standard-of-living_index",
+    "Media_exposure"
+  ],
+  "labels": [
+    "1",
+    "2",
+    "3"
+  ],
+  "class_counts": [
+    629,
+    333,
+    511
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/23",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\23\\cmc.arff.gz",
+  "source_sha256": "93b4085767e3dee43f31e86c07b670ea58f55a5a5095f8a23bc3bd5cdf5a5212",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": 54,
+  "name": "vehicle",
+  "n": 846,
+  "original_n": 846,
+  "p": 18,
+  "numerical": [
+    "COMPACTNESS",
+    "CIRCULARITY",
+    "DISTANCE_CIRCULARITY",
+    "RADIUS_RATIO",
+    "PR.AXIS_ASPECT_RATIO",
+    "MAX.LENGTH_ASPECT_RATIO",
+    "SCATTER_RATIO",
+    "ELONGATEDNESS",
+    "PR.AXIS_RECTANGULARITY",
+    "MAX.LENGTH_RECTANGULARITY",
+    "SCALED_VARIANCE_MAJOR",
+    "SCALED_VARIANCE_MINOR",
+    "SCALED_RADIUS_OF_GYRATION",
+    "SKEWNESS_ABOUT_MAJOR",
+    "SKEWNESS_ABOUT_MINOR",
+    "KURTOSIS_ABOUT_MAJOR",
+    "KURTOSIS_ABOUT_MINOR",
+    "HOLLOWS_RATIO"
+  ],
+  "categorical": [],
+  "labels": [
+    "bus",
+    "opel",
+    "saab",
+    "van"
+  ],
+  "class_counts": [
+    218,
+    212,
+    217,
+    199
+  ],
+  "missing": 0,
+  "source": "https://www.openml.org/d/54",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\54\\vehicle.arff.gz",
+  "source_sha256": "f93030d4dd9b5978615cc517305ea513a44b44d09092a95a4d0ac71be3176af8",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": 24,
+  "name": "mushroom",
+  "n": 5000,
+  "original_n": 8124,
+  "p": 22,
+  "numerical": [],
+  "categorical": [
+    "cap-shape",
+    "cap-surface",
+    "cap-color",
+    "bruises%3F",
+    "odor",
+    "gill-attachment",
+    "gill-spacing",
+    "gill-size",
+    "gill-color",
+    "stalk-shape",
+    "stalk-root",
+    "stalk-surface-above-ring",
+    "stalk-surface-below-ring",
+    "stalk-color-above-ring",
+    "stalk-color-below-ring",
+    "veil-type",
+    "veil-color",
+    "ring-number",
+    "ring-type",
+    "spore-print-color",
+    "population",
+    "habitat"
+  ],
+  "labels": [
+    "e",
+    "p"
+  ],
+  "class_counts": [
+    2590,
+    2410
+  ],
+  "missing": 1508,
+  "source": "https://www.openml.org/d/24",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\24\\mushroom.arff.gz",
+  "source_sha256": "6116a95f62e4eac3c309c341e9f59ad6a1c80e00619ec7f0b32497e19ad26435",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}

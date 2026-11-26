@@ -1,0 +1,7 @@
+{
+  "distance_linear_equal": true,
+  "samples": 10000,
+  "inner_path_checks": 20000,
+  "outside_path_flips": 200,
+  "caveat": "Open ball; path invariance only, not necessity for unchanged label."
+}

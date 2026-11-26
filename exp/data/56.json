@@ -1,0 +1,40 @@
+{
+  "id": 56,
+  "name": "vote",
+  "n": 435,
+  "original_n": 435,
+  "p": 16,
+  "numerical": [],
+  "categorical": [
+    "handicapped-infants",
+    "water-project-cost-sharing",
+    "adoption-of-the-budget-resolution",
+    "physician-fee-freeze",
+    "el-salvador-aid",
+    "religious-groups-in-schools",
+    "anti-satellite-test-ban",
+    "aid-to-nicaraguan-contras",
+    "mx-missile",
+    "immigration",
+    "synfuels-corporation-cutback",
+    "education-spending",
+    "superfund-right-to-sue",
+    "crime",
+    "duty-free-exports",
+    "export-administration-act-south-africa"
+  ],
+  "labels": [
+    "democrat",
+    "republican"
+  ],
+  "class_counts": [
+    267,
+    168
+  ],
+  "missing": 392,
+  "source": "https://www.openml.org/d/56",
+  "source_file": "D:\\data\\openml\\openml.org\\data\\v1\\download\\56\\vote.arff.gz",
+  "source_sha256": "d7ed3ef0eb7832da47bfd472c567932c2b2ad61ff58e0d3818f9a054c8136fe1",
+  "ignore_attributes": [],
+  "row_id_attribute": null
+}
